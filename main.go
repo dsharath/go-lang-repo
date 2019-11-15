@@ -2,8 +2,7 @@ package main
 
 import(
    "fmt"
-   "strings"
-   "dev"
+   "main/dev"
 )
 func main() {
 

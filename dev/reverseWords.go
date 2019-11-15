@@ -1,5 +1,8 @@
 package dev
 
+import(
+  "strings"
+)
 func Reverse(str string) (string ,string){
 
 
