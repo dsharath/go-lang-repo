@@ -7,7 +7,9 @@ import(
 func main() {
 
 fmt.Println("hi")
- fmt.Println(dev.Reverse("laptop omg"))
+num := []int{7, 2, 4}
+fmt.Println("before sorting::%v",num)
+ fmt.Println(dev.SortNumbers(num))
 
 }
 
